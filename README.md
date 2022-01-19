@@ -10,4 +10,9 @@ It's easier
 
 
 # Normal Usages 
-Find the url to the file you want to download, this tool will pull webpages so be careful until I implement that
+Find the url to the file you want to download
+
+then use:
+
+Linux:
+```python3 FAFD.py https://github.com/RPowell-C/FAFD/raw/main/test.txt ```
