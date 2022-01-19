@@ -15,4 +15,9 @@ Find the url to the file you want to download
 then use:
 
 Linux:
+
 ```python3 FAFD.py https://github.com/RPowell-C/FAFD/raw/main/test.txt ```
+
+Windows:
+
+```py FAFD.py https://github.com/RPowell-C/FAFD/raw/main/test.txt ```
