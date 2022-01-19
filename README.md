@@ -4,7 +4,7 @@ A Fast as F*** Downloader
 
 # Github Usages
 You'll want to use a URL like this:
-https://github.com/RPowell-C/FAFD/raw/main/FAFD.pp
+https://github.com/RPowell-C/FAFD/raw/main/FAFD.py
 It's easier
 # DONT FORGET THE /raw/ PART
 
